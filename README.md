@@ -8,7 +8,7 @@ Create a git repo in Github, BitBucket or any other source control management sy
 **STEP-2: BUILD YOUR SITE**
 I have used index.html template from w3 schools for a start. You can use your own content. I'll gradually update my website.
 
-**STEP-3: **CREATE A S3 BUCKET**
+**STEP-3**: **CREATE A S3 BUCKET**
 Create a S3 static website to host website. The name of the bucket should match your domain name e.g. cornersquare.tk.
 
 S3 bucket should publicly accessible and static website property should be enabled.
