@@ -54,7 +54,6 @@ Create a HTTPS/SSL certificate for the domain using AWS Certificate Manager (ACM
 
 **STEP-5: CLOUDFRONT FOR CONTENT DELIVERY NETWORK**
 Create a CloudFront distribution pointing, for example
-
 Origin: Should point to S3 bucket endpoint. 
 Root: index.html
 Domain: cornersquare.tk, www.cornersquare.tk
